@@ -1,0 +1,7 @@
+numpy
+pandas
+flask
+setuptools
+xgboost
+scikit-learn
+-e .
