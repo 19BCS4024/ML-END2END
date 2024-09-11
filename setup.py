@@ -21,6 +21,6 @@ setup(
     version='0.0.1',
     author='Yash Chauhan',
     author_email='yashchauhan528@gmail.com',
-    packagees=find_packages(),
+    packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )

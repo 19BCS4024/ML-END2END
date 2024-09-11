@@ -4,4 +4,6 @@ flask
 setuptools
 xgboost
 scikit-learn
--e .
+matplotlib
+catboost
+# -e .
